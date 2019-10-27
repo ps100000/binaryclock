@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/decoder/.platformio/penv/bin:/home/decoder/.platformio/penv:/home/decoder/Programms/google-cloud-sdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
